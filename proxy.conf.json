@@ -1,0 +1,6 @@
+{
+    "/vb-api": {
+      "target": "http://10.30.104.14:8081/",
+      "secure": false
+    }
+  }
